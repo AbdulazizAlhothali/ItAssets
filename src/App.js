@@ -152,8 +152,6 @@ const App = () => {
     rowData={rowData} 
     columnDefs={colDefs}
     rowSelection='single'
-    components={components}
-    reactiveCustomComponents
      />
   </div>
     </div>
